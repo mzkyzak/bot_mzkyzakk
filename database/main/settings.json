@@ -1,0 +1,657 @@
+{
+  "selfMode": false,
+  "ownerNumbers": [],
+  "ownerType": 2,
+  "welcomeType": 7,
+  "replyVariant": 9,
+  "menuVariant": 7,
+  "botAfk": {
+    "active": false
+  },
+  "cmdVn": false,
+  "autoSholatKota": {
+    "id": "1301",
+    "nama": "KOTA JAKARTA"
+  },
+  "onlyGc": false,
+  "onlyPc": false,
+  "giveaways": {},
+  "botMode": "all",
+  "audioMenu": true,
+  "transactionSessions": {},
+  "premiumUsers": [],
+  "similarity": true,
+  "goodbyeType": 7,
+  "onlyAdmin": false,
+  "selfAdmin": false,
+  "publicAdmin": false,
+  "_lastEnergiDefault": 99999,
+  "_lastEnergiPremium": 99999999,
+  "lastLimitReset": "2026-08-28T17:00:00.108Z",
+  "onlyThisGroup": null,
+  "autoJpm": {
+    "enabled": false,
+    "intervalMs": 900000,
+    "message": {},
+    "lastRun": 1774157878673,
+    "nextRun": 1774158778673
+  },
+  "jedaJpm": 10000,
+  "globalCustomReplies": [],
+  "panelCreateLastUsed": 1775377733441,
+  "autoJoinGc": false,
+  "autoSholat": false,
+  "errorLog": [
+    {
+      "cmd": "unknown",
+      "err": "imageBuffer is not defined",
+      "at": 1787415318979
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787415314310
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787415304825
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787414422064
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787407522489
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787407521223
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787383697045
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787382716683
+    },
+    {
+      "cmd": "unknown",
+      "err": "imageBuffer is not defined",
+      "at": 1787317336869
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787317312927
+    },
+    {
+      "cmd": "unknown",
+      "err": "imageBuffer is not defined",
+      "at": 1787317290049
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787317253183
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787225665906
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787217388832
+    },
+    {
+      "cmd": "unknown",
+      "err": "Cannot find module 'C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\src\\lib\\ourin-time.js' imported from C:\\Users\\mzkyz\\Downloads\\ASEPBOT_backup_2026-08-02_17-02-2MOBI)\\plugins\\main\\me",
+      "at": 1787207843319
+    }
+  ],
+  "jpmBlacklist": [],
+  "bannedUsers": [],
+  "allmenuVariant": 6,
+  "menucatVariant": 5,
+  "notifMakan": {},
+  "storeProducts": [],
+  "storeTrxCounter": 3,
+  "storeTransactions": {},
+  "storeLists": [],
+  "autoReadSW": {
+    "enabled": true
+  },
+  "autoReactSW": {
+    "enabled": true,
+    "emoji": "🔥"
+  },
+  "customPaymentText": "",
+  "bcgcEnabled": false,
+  "scheduledMessages": [],
+  "pushAutoVcf": false,
+  "selfGroups": [
+    "120363421878840453@g.us",
+    "120363373395529179@g.us",
+    "120363315080750777@g.us",
+    "all@g.us",
+    "120363426034837944@g.us",
+    "120363425601482438@g.us",
+    "120363422820946932@g.us",
+    "120363422566286741@g.us",
+    "120363421932982292@g.us",
+    "120363420432995898@g.us",
+    "120363420425436728@g.us",
+    "120363407892916413@g.us",
+    "120363406387529682@g.us",
+    "120363405546994223@g.us",
+    "120363403621244901@g.us",
+    "120363402248467638@g.us",
+    "120363243134182464@g.us",
+    "120363428449572372@g.us",
+    "120363409757078110@g.us",
+    "120363404394434335@g.us",
+    "120363413318544000@g.us",
+    "120363424425379201@g.us",
+    "120363425257170437@g.us",
+    "120363412369850092@g.us",
+    "120363421151498255@g.us",
+    "120363387787377457@g.us",
+    "120363403135576458@g.us",
+    "120363429256324135@g.us",
+    "120363283962251431@g.us",
+    "120363344133940362@g.us",
+    "120363403867286157@g.us",
+    "120363422457617309@g.us",
+    "120363420008528450@g.us",
+    "120363320288137828@g.us",
+    "120363388190275694@g.us",
+    "120363352775783315@g.us",
+    "120363420893236014@g.us",
+    "120363403060730296@g.us",
+    "120363332115626328@g.us",
+    "120363242515440762@g.us",
+    "120363422777715873@g.us",
+    "120363423503922575@g.us",
+    "120363421442115471@g.us",
+    "120363427036376206@g.us",
+    "120363402960885181@g.us",
+    "120363418842575205@g.us",
+    "120363407604028891@g.us",
+    "120363378440055886@g.us",
+    "120363426400898579@g.us",
+    "120363426978915461@g.us",
+    "120363428039702288@g.us",
+    "120363424895799564@g.us",
+    "120363405283070228@g.us",
+    "120363418544708014@g.us",
+    "120363322957038347@g.us",
+    "628979044824-1600155227@g.us",
+    "120363299657467528@g.us",
+    "120363314742793377@g.us",
+    "120363343025911390@g.us",
+    "120363403959272077@g.us",
+    "120363299852517998@g.us",
+    "120363404660647120@g.us",
+    "120363419548179543@g.us",
+    "120363301531602780@g.us",
+    "120363402516082025@g.us",
+    "120363402616871423@g.us",
+    "120363403331117216@g.us",
+    "120363317061864507@g.us",
+    "120363294290172927@g.us",
+    "120363419731833531@g.us",
+    "120363315675243945@g.us",
+    "120363404519995278@g.us",
+    "120363406548659768@g.us",
+    "120363405300152353@g.us",
+    "120363419272476886@g.us",
+    "120363410179076937@g.us",
+    "120363407779108999@g.us",
+    "120363425995429963@g.us",
+    "120363404230497300@g.us",
+    "120363319950483559@g.us",
+    "120363422452471252@g.us",
+    "120363185649617884@g.us",
+    "120363423810414233@g.us",
+    "120363402137975153@g.us",
+    "120363331894893545@g.us",
+    "120363422550717809@g.us",
+    "120363427547659081@g.us",
+    "120363429204779823@g.us",
+    "120363422373613497@g.us",
+    "6283891422729-1594818306@g.us",
+    "120363408233573608@g.us",
+    "120363325267367696@g.us",
+    "120363409126434781@g.us",
+    "120363420104087620@g.us",
+    "120363406269899308@g.us",
+    "120363403389606731@g.us",
+    "120363405324023612@g.us",
+    "120363424006905534@g.us",
+    "120363292733586770@g.us",
+    "120363422710309626@g.us",
+    "120363421615461226@g.us",
+    "120363424975048569@g.us",
+    "120363421528087900@g.us",
+    "120363419969263632@g.us",
+    "120363401960262913@g.us",
+    "120363423691178017@g.us",
+    "120363275375956913@g.us",
+    "120363408057484987@g.us",
+    "120363372598301685@g.us",
+    "120363234616516023@g.us",
+    "120363225124870694@g.us",
+    "120363427140351782@g.us",
+    "120363412281916344@g.us",
+    "120363418888862206@g.us"
+  ],
+  "ownerNames": {
+    "6288901796549": "ASEP BOT"
+  },
+  "publicGroups": [],
+  "autoRead": true,
+  "contacts": {
+    "6285813708397@s.whatsapp.net": {
+      "jid": "6285813708397@s.whatsapp.net",
+      "name": "FallZx Infinity"
+    },
+    "6283861715776@s.whatsapp.net": {
+      "jid": "6283861715776@s.whatsapp.net",
+      "name": "lul"
+    },
+    "6289517998118@s.whatsapp.net": {
+      "jid": "6289517998118@s.whatsapp.net",
+      "name": "onlyzeyy"
+    },
+    "6283165828310@s.whatsapp.net": {
+      "jid": "6283165828310@s.whatsapp.net",
+      "name": "falzzstr"
+    },
+    "628983352899@s.whatsapp.net": {
+      "jid": "628983352899@s.whatsapp.net",
+      "name": "n928sf91l5"
+    },
+    "6283861254877@s.whatsapp.net": {
+      "jid": "6283861254877@s.whatsapp.net",
+      "name": "ardi"
+    },
+    "6282318570038@s.whatsapp.net": {
+      "jid": "6282318570038@s.whatsapp.net",
+      "name": "Ler"
+    },
+    "6283175874474@s.whatsapp.net": {
+      "jid": "6283175874474@s.whatsapp.net",
+      "name": "Billy ni bosh"
+    },
+    "6283890663879@s.whatsapp.net": {
+      "jid": "6283890663879@s.whatsapp.net",
+      "name": "arp"
+    },
+    "6283875163715@s.whatsapp.net": {
+      "jid": "6283875163715@s.whatsapp.net",
+      "name": "mbg ahlill"
+    },
+    "628971523890@s.whatsapp.net": {
+      "jid": "628971523890@s.whatsapp.net",
+      "name": "Rest"
+    },
+    "6285810192529@s.whatsapp.net": {
+      "jid": "6285810192529@s.whatsapp.net",
+      "name": "bot?mzky"
+    },
+    "62895386933113@s.whatsapp.net": {
+      "jid": "62895386933113@s.whatsapp.net",
+      "name": "sapa nyak"
+    },
+    "6288242435508@s.whatsapp.net": {
+      "jid": "6288242435508@s.whatsapp.net",
+      "name": "Ferr"
+    },
+    "6283134703105@s.whatsapp.net": {
+      "jid": "6283134703105@s.whatsapp.net",
+      "name": "xyzbca"
+    },
+    "6282112516592@s.whatsapp.net": {
+      "jid": "6282112516592@s.whatsapp.net",
+      "name": "HadiFX"
+    },
+    "6283105576872@s.whatsapp.net": {
+      "jid": "6283105576872@s.whatsapp.net",
+      "name": "bule benci php"
+    },
+    "6283188067385@s.whatsapp.net": {
+      "jid": "6283188067385@s.whatsapp.net",
+      "name": "HAKZ(STORE2)"
+    },
+    "6282364436376@s.whatsapp.net": {
+      "jid": "6282364436376@s.whatsapp.net",
+      "name": "ranz"
+    },
+    "6285286714963@s.whatsapp.net": {
+      "jid": "6285286714963@s.whatsapp.net",
+      "name": "kang nokos 2"
+    },
+    "6285393646135@s.whatsapp.net": {
+      "jid": "6285393646135@s.whatsapp.net",
+      "name": "Putt"
+    },
+    "62895375020903@s.whatsapp.net": {
+      "jid": "62895375020903@s.whatsapp.net",
+      "name": "han"
+    },
+    "6289654400314@s.whatsapp.net": {
+      "jid": "6289654400314@s.whatsapp.net",
+      "name": "ARDI UDAH CAPE KENON"
+    },
+    "6281278731475@s.whatsapp.net": {
+      "jid": "6281278731475@s.whatsapp.net",
+      "name": "mulyadibltg57"
+    },
+    "6285143228787@s.whatsapp.net": {
+      "jid": "6285143228787@s.whatsapp.net",
+      "name": "Zyrox STORE"
+    },
+    "6285709537218@s.whatsapp.net": {
+      "jid": "6285709537218@s.whatsapp.net",
+      "name": "justice"
+    },
+    "628567630515@s.whatsapp.net": {
+      "jid": "628567630515@s.whatsapp.net",
+      "name": "dzul8516"
+    },
+    "6285768730736@s.whatsapp.net": {
+      "jid": "6285768730736@s.whatsapp.net",
+      "name": "fizz"
+    },
+    "6289665680210@s.whatsapp.net": {
+      "jid": "6289665680210@s.whatsapp.net",
+      "name": "Nay Store"
+    },
+    "6289526608255@s.whatsapp.net": {
+      "jid": "6289526608255@s.whatsapp.net",
+      "name": "Alfa Rezki rto 150 testi"
+    },
+    "6285119124280@s.whatsapp.net": {
+      "jid": "6285119124280@s.whatsapp.net",
+      "name": "Finzzstore Cape Kenon [CEO APK BUG]"
+    },
+    "62895320263153@s.whatsapp.net": {
+      "jid": "62895320263153@s.whatsapp.net",
+      "name": "Farrel Maulana Chandra"
+    },
+    "62895626709321@s.whatsapp.net": {
+      "jid": "62895626709321@s.whatsapp.net",
+      "name": "Aku Rasya Takahiro"
+    },
+    "6287811559258@s.whatsapp.net": {
+      "jid": "6287811559258@s.whatsapp.net",
+      "name": "jristore"
+    },
+    "6283130498393@s.whatsapp.net": {
+      "jid": "6283130498393@s.whatsapp.net",
+      "name": "666"
+    },
+    "6285138608005@s.whatsapp.net": {
+      "jid": "6285138608005@s.whatsapp.net",
+      "name": "No Backup"
+    },
+    "6285137594385@s.whatsapp.net": {
+      "jid": "6285137594385@s.whatsapp.net",
+      "name": "zeem"
+    },
+    "6287729525734@s.whatsapp.net": {
+      "jid": "6287729525734@s.whatsapp.net",
+      "name": "taufiq"
+    },
+    "6282362005439@s.whatsapp.net": {
+      "jid": "6282362005439@s.whatsapp.net",
+      "name": "Hanif Maulana Aldyza"
+    },
+    "6285282677371@s.whatsapp.net": {
+      "jid": "6285282677371@s.whatsapp.net",
+      "name": "ihsan"
+    },
+    "6289667956982@s.whatsapp.net": {
+      "jid": "6289667956982@s.whatsapp.net",
+      "name": "."
+    },
+    "6285763481732@s.whatsapp.net": {
+      "jid": "6285763481732@s.whatsapp.net",
+      "name": "Ns4-dev 🐾"
+    },
+    "6281514658356@s.whatsapp.net": {
+      "jid": "6281514658356@s.whatsapp.net",
+      "name": "Thiori"
+    },
+    "6285801216275@s.whatsapp.net": {
+      "jid": "6285801216275@s.whatsapp.net",
+      "name": "Rizky Dev."
+    },
+    "6285795115089@s.whatsapp.net": {
+      "jid": "6285795115089@s.whatsapp.net",
+      "name": "dsi wlnsri"
+    },
+    "6281212477488@s.whatsapp.net": {
+      "jid": "6281212477488@s.whatsapp.net",
+      "name": "BMH"
+    },
+    "6285748851206@s.whatsapp.net": {
+      "jid": "6285748851206@s.whatsapp.net",
+      "name": "1"
+    },
+    "6285135530429@s.whatsapp.net": {
+      "jid": "6285135530429@s.whatsapp.net",
+      "name": "Mas Tar"
+    },
+    "6282274774873@s.whatsapp.net": {
+      "jid": "6282274774873@s.whatsapp.net",
+      "name": "White Jack"
+    },
+    "6287880662888@s.whatsapp.net": {
+      "jid": "6287880662888@s.whatsapp.net",
+      "name": "Arief Syawaladi"
+    },
+    "6281319084782@s.whatsapp.net": {
+      "jid": "6281319084782@s.whatsapp.net",
+      "name": "Refi"
+    },
+    "6283117493788@s.whatsapp.net": {
+      "jid": "6283117493788@s.whatsapp.net",
+      "name": "Rasya Andrean"
+    },
+    "6285742053205@s.whatsapp.net": {
+      "jid": "6285742053205@s.whatsapp.net",
+      "name": "Nandikara"
+    },
+    "6285179708054@s.whatsapp.net": {
+      "jid": "6285179708054@s.whatsapp.net",
+      "name": "🎭"
+    },
+    "6281233484710@s.whatsapp.net": {
+      "jid": "6281233484710@s.whatsapp.net",
+      "name": "￶"
+    },
+    "6285163237483@s.whatsapp.net": {
+      "jid": "6285163237483@s.whatsapp.net",
+      "name": "斐思"
+    },
+    "6285692473334@s.whatsapp.net": {
+      "jid": "6285692473334@s.whatsapp.net",
+      "name": "Zeff. | Fajrin Widianto"
+    },
+    "628986440686@s.whatsapp.net": {
+      "jid": "628986440686@s.whatsapp.net",
+      "name": "Raja Akbar Maulana"
+    },
+    "62881036887189@s.whatsapp.net": {
+      "jid": "62881036887189@s.whatsapp.net",
+      "name": "hantu"
+    },
+    "6281584644642@s.whatsapp.net": {
+      "jid": "6281584644642@s.whatsapp.net",
+      "name": "Abi Fikri"
+    },
+    "6285177922179@s.whatsapp.net": {
+      "jid": "6285177922179@s.whatsapp.net",
+      "name": "vs"
+    },
+    "6282321748081@s.whatsapp.net": {
+      "jid": "6282321748081@s.whatsapp.net",
+      "name": "林金安 , B.PH, B.Ed  🇨🇳"
+    },
+    "6283848026462@s.whatsapp.net": {
+      "jid": "6283848026462@s.whatsapp.net",
+      "name": "F"
+    },
+    "6285885591225@s.whatsapp.net": {
+      "jid": "6285885591225@s.whatsapp.net",
+      "name": "Ezra"
+    },
+    "6283830822665@s.whatsapp.net": {
+      "jid": "6283830822665@s.whatsapp.net",
+      "name": "kaa"
+    },
+    "6285721829539@s.whatsapp.net": {
+      "jid": "6285721829539@s.whatsapp.net",
+      "name": "myane"
+    },
+    "6285933809168@s.whatsapp.net": {
+      "jid": "6285933809168@s.whatsapp.net",
+      "name": "```not.a.dev```"
+    },
+    "6285210311895@s.whatsapp.net": {
+      "jid": "6285210311895@s.whatsapp.net",
+      "name": "brann Homeless"
+    },
+    "628815949633@s.whatsapp.net": {
+      "jid": "628815949633@s.whatsapp.net",
+      "name": "let me think"
+    },
+    "62895806517733@s.whatsapp.net": {
+      "jid": "62895806517733@s.whatsapp.net",
+      "name": "."
+    },
+    "6282244846142@s.whatsapp.net": {
+      "jid": "6282244846142@s.whatsapp.net",
+      "name": "."
+    },
+    "6283819654409@s.whatsapp.net": {
+      "jid": "6283819654409@s.whatsapp.net",
+      "name": "."
+    },
+    "6285750406897@s.whatsapp.net": {
+      "jid": "6285750406897@s.whatsapp.net",
+      "name": "Nanz`"
+    },
+    "6283811792360@s.whatsapp.net": {
+      "jid": "6283811792360@s.whatsapp.net",
+      "name": "~adi"
+    },
+    "6282148354789@s.whatsapp.net": {
+      "jid": "6282148354789@s.whatsapp.net",
+      "name": "Aslive"
+    },
+    "6285956711637@s.whatsapp.net": {
+      "jid": "6285956711637@s.whatsapp.net",
+      "name": "Long Scorpion"
+    },
+    "6285822937819@s.whatsapp.net": {
+      "jid": "6285822937819@s.whatsapp.net",
+      "name": "جنةنعمة"
+    },
+    "6285783133277@s.whatsapp.net": {
+      "jid": "6285783133277@s.whatsapp.net",
+      "name": "seravine"
+    },
+    "6289515767589@s.whatsapp.net": {
+      "jid": "6289515767589@s.whatsapp.net",
+      "name": "ependi"
+    },
+    "6281263561094@s.whatsapp.net": {
+      "jid": "6281263561094@s.whatsapp.net",
+      "name": "Teuku R🐺☁️"
+    },
+    "6281211693015@s.whatsapp.net": {
+      "jid": "6281211693015@s.whatsapp.net",
+      "name": "Niea Chassy"
+    },
+    "6287771159509@s.whatsapp.net": {
+      "jid": "6287771159509@s.whatsapp.net",
+      "name": "shoegaze"
+    },
+    "6283807778261@s.whatsapp.net": {
+      "jid": "6283807778261@s.whatsapp.net",
+      "name": "Deyyy."
+    },
+    "6285781129946@s.whatsapp.net": {
+      "jid": "6285781129946@s.whatsapp.net",
+      "name": "s"
+    },
+    "62816793855@s.whatsapp.net": {
+      "jid": "62816793855@s.whatsapp.net",
+      "name": "hajelbswjahwuwsjsiwis"
+    },
+    "6281545692577@s.whatsapp.net": {
+      "jid": "6281545692577@s.whatsapp.net",
+      "name": "."
+    },
+    "6289502859287@s.whatsapp.net": {
+      "jid": "6289502859287@s.whatsapp.net",
+      "name": "Riri"
+    },
+    "628811921271@s.whatsapp.net": {
+      "jid": "628811921271@s.whatsapp.net",
+      "name": "iyup"
+    },
+    "6282299462041@s.whatsapp.net": {
+      "jid": "6282299462041@s.whatsapp.net",
+      "name": "wintang"
+    },
+    "6285893161502@s.whatsapp.net": {
+      "jid": "6285893161502@s.whatsapp.net",
+      "name": "Rafael Firnandi"
+    },
+    "6281380835751@s.whatsapp.net": {
+      "jid": "6281380835751@s.whatsapp.net",
+      "name": "lols"
+    },
+    "6281281155624@s.whatsapp.net": {
+      "jid": "6281281155624@s.whatsapp.net",
+      "name": "Kiki"
+    },
+    "62882005224766@s.whatsapp.net": {
+      "jid": "62882005224766@s.whatsapp.net",
+      "name": "Donat Kentang"
+    },
+    "6282218343405@s.whatsapp.net": {
+      "jid": "6282218343405@s.whatsapp.net",
+      "name": "Lyeepedia - Cloud"
+    },
+    "6288238238531@s.whatsapp.net": {
+      "jid": "6288238238531@s.whatsapp.net",
+      "name": "Mohamad Fikri 🫪"
+    }
+  },
+  "notiflimit": false,
+  "pgTopups": {},
+  "pgPayments": {},
+  "storeAutoProducts": [],
+  "allmenuAudioStyle": 3,
+  "sitagrup": {},
+  "srtEnabled": true,
+  "autobio_text": "",
+  "autobio_status": false,
+  "capprem": {},
+  "autoTyping": false,
+  "antiCall": false,
+  "gcPrivateAll": true
+}
