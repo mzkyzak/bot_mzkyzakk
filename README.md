@@ -1,6 +1,6 @@
 
 # 🚀 MZKYZAK-MD (Version 10.0)
-### Ultimate WhatsApp Multi-Device Modular Bot Engine
+### whatsaap Bot mzkyzak
 
 <p align="center">
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-%3E%3D22.0.0-brightgreen.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>MZKYZAK-MD Version 10.0</b> adalah script WhatsApp Bot Multi-Device paling modern, super lengkap, dan stabil dengan arsitektur <b>Plugin Modular</b> & <b>Dynamic Case Handler System</b>. Dirancang khusus untuk <b>Kecepatan Respon Tinggi</b>, <b>Kemudahan Penggunaan</b>, serta daya tarik visual <b>UI Interaktif (Buttons, Carousel, Native Flow, Voice Note Allmenu & Live Weather)</b>.
+  <b>MZKYZAK-MD Version 10.0</b> adalah script numpang, mainan/fitur tercanggih yang belum lu tahu dan di WhatsApp Bot Multi-Device paling modern, super lengkap, dan stabil dengan arsitektur <b>Plugin Modular</b> & <b>Dynamic Case Handler System</b>. Dirancang khusus untuk <b>Kecepatan Respon Tinggi</b>, <b>Kemudahan Penggunaan</b>, serta daya tarik visual <b>UI Interaktif (Buttons, Carousel, Native Flow, Voice Note Allmenu & Live Weather)</b>.
 </p>
 
 ---
