@@ -107,7 +107,7 @@ const config = {
   saluran: {
     id: "120363400911374213@newsletter", // ID saluran (contoh: 120363xxx@newsletter)                          // ID saluran (contoh: 120363xxx@newsletter)
     name: "Join saluran resmi mzkyzak", // Nama saluran
-    link: "https://whatsapp.com/channel/0029VbB37bgBfxoAmAlsgE0t", // Link saluran
+    link: "https://whatsapp.com/channel/0029VbDP6eW0bIdqEKgUBj2O", // Link saluran
   },
 
   groupProtection: {
