@@ -250,8 +250,8 @@ pkg update && pkg upgrade -y
 pkg install git nodejs-lts ffmpeg libwebp -y
 
 # Clone Repository & Masuk Folder
-git clone https://github.com/username/mzkyzakk.git
-cd mzkyzakk
+git clone https://github.com/mzkyzak/bot_mzkyzakk.git
+cd bot_mzkyzakk
 
 # Install Dependensi Project
 npm install
@@ -274,7 +274,7 @@ curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
 sudo apt install -y nodejs ffmpeg git build-essential
 
 # Clone Repository
-git clone https://github.com/username/mzkyzakk.git
+git clone https://github.com/mzkyzak/bot_mzkyzakk.git
 cd mzkyzakk
 
 # Install Dependensi Project
