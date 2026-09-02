@@ -404,17 +404,11 @@ const config = {
 
 Tetap terhubung dengan pembaruan fitur terbaru dan dukungan teknis:
 
-- 📢 **Saluran WhatsApp Resmi**: [Join Saluran MZKYZAK-MD](https://whatsapp.com/channel/0029VbB37bgBfxoAmAlsgE0t)
+- 📢 **Saluran WhatsApp Resmi**: [Join Saluran MZKYZAK-MD](https://whatsapp.com/channel/0029VbDP6eW0bIdqEKgUBj2O)
 - 👨‍💻 **Developer Contact**: `6285810192529`
 
 ---
 
-## 📜 Lisensi & Credits
-
-- **Developer Utama**: Zann & mzkyzak
-- **Engine Library**: [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys) / Ourin Baileys Engine
-- **Lisensi Open Source**: ISC License
-
 <p align="center">
-  <b>⭐ Jangan lupa berikan Star pada repository ini jika MZKYZAK-MD v10 bermanfaat untuk Anda! ⭐</b>
+  <b>⭐ Jangan lupa bermain bot gw 6285810192529 jangan lupa oyy berikan Star pada repository ini jika MZKYZAK-MD v10 bermanfaat untuk LU! ⭐</b>
 </p>
