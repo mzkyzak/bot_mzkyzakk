@@ -7,7 +7,7 @@
   <a href="https://github.com/adiwajshing/Baileys"><img src="https://img.shields.io/badge/Engine-Ourin--Baileys-blue.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys"></a>
   <a href="#"><img src="https://img.shields.io/badge/Version-10.0.0--ULTRA-orange.svg?style=for-the-badge" alt="Version"></a>
   <a href="https://whatsapp.com/channel/0029VbB37bgBfxoAmAlsgE0t"><img src="https://img.shields.io/badge/WhatsApp-Channel%20Resmi-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-ISC-red.svg?style=for-the-badge" alt="License"></a>
+  <a href="mainbot"><img src="https://img.shields.io/badge/ketikmenu-ISC-red.svg?style=for-the-badge" alt="mainbot"></a>
 </p>
 
 <p align="center">
